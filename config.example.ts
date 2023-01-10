@@ -11,9 +11,9 @@ const config: Config = {
         blocked: 'The Chinese website has blocked the bot, too bad 🤷‍♂️',
         bye:
             'Thank you for using this bot 👍\n' +
-            'Please rate and fork it on [Github](https://github.com/lmcsu/qq-neural-anime-tg) ♥️',
+            'Please rate and fork it on [Github](https://github.com/Team-Alisha/Photo-to-anime) ♥️',
         hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art',
-        media: '@qq\\_neural\\_anime\\_bot',
+        media: '@PhotoToAnime_Robot',
         received: 'Photo has been received, please wait',
     },
     sendMedia: {
